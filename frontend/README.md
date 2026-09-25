@@ -1,8 +1,5 @@
 # Arte7 · Frontend (NextJS)
 
-Aplicación web construida con **Next.js (App Router)** y **TypeScript** que consume
-el backend NestJS de Arte7. Implementa lo solicitado en el enunciado del Parcial 1.
-
 ## Funcionalidades
 
 ### Parte 1 — CRUD de actores
